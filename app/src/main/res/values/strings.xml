@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">transflo_take2</string>
+    <string name="title_activity_maps">TRANSFLO Map</string>
+    <string name="mapTitle">TRANSFLO Stops</string>
+    <string name="recenterText">recenter</string>
+    <string name="toggleText">toggle satellite</string>
+    <string name="trackingOnText">turn off tracking</string>
+    <string name="trackingOffText">turn on tracking</string>
+    <string name="nameSearchHint">Truck stop name…</string>
+    <string name="citySearchHint">City name…</string>
+    <string name="stateSearchHint">State…</string>
+    <string name="zipSearchHint">Zip code…</string>
+    <string name="genericSearchText">Search</string>
+    <string name="searchboxText">open search</string>
+</resources>
